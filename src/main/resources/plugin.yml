@@ -1,0 +1,6 @@
+name: Prison
+version: ${project.version}
+main: io.github.sirfaizdat.prison.Prison
+authors: [SirFaizdat]
+description: Provides the main functionalities of a Prison server.
+website: http://sirfaizdat.github.io
